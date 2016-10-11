@@ -1,0 +1,11 @@
+div{
+    border: 1px solid black;
+}
+input{
+    display: block;
+}
+#loginDiv{
+    width: 200px;
+    display: block;
+    margin: 200px auto;
+}

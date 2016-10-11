@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+         version="3.1">
+    <servlet>
+        <servlet-name>LoginServlet</servlet-name>
+        <servlet-class>Servlets.LoginServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>LoginServlet</servlet-name>
+        <url-pattern>/loginServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+    <servlet-name>GetDepartmentsServlet</servlet-name>
+    <servlet-class>Servlets.GetDepartmentsServlet</servlet-class>
+</servlet>
+
+    <servlet-mapping>
+        <servlet-name>GetDepartmentsServlet</servlet-name>
+        <url-pattern>/getDepartmentsServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ModifyDepartmentServlet</servlet-name>
+        <servlet-class>Servlets.ModifyDepartmentServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>ModifyDepartmentServlet</servlet-name>
+        <url-pattern>/modifyDepartmentServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>RemoveDepartmentServlet</servlet-name>
+        <servlet-class>Servlets.RemoveDepartmentServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>RemoveDepartmentServlet</servlet-name>
+        <url-pattern>/removeDepartmentServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+    <servlet-name>EmployBonusServlet</servlet-name>
+    <servlet-class>Servlets.EmployBonusServlet</servlet-class>
+</servlet>
+
+    <servlet-mapping>
+        <servlet-name>EmployBonusServlet</servlet-name>
+        <url-pattern>/employBonusServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>AllBonusesServlet</servlet-name>
+        <servlet-class>Servlets.AllBonusesServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>AllBonusesServlet</servlet-name>
+        <url-pattern>/allBonusesServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>AllRaitingsServlet</servlet-name>
+        <servlet-class>Servlets.AllRaitingsServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>AllRaitingsServlet</servlet-name>
+        <url-pattern>/allRaitingsServlet</url-pattern>
+    </servlet-mapping>
+</web-app>
