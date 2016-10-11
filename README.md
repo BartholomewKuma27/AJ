@@ -1,2 +1,1 @@
-*MyList იმპლემენტირებულია ყველა ძირითადი მეთოდი, დემო იმავე ფაილში.
-*FlyException ჩემი ექსეფშენი, დემო ცალკე ფაილში(FlyDemo) 
+*Advanced java project. Readme iqneba male
