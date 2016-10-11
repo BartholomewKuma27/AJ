@@ -26,11 +26,10 @@
       <file leaf-file-name="RaitingControl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Controller/RaitingControl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
+            <state relative-caret-position="425">
               <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#629#646#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -39,7 +38,7 @@
       <file leaf-file-name="AllRaitingsServlet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/AllRaitingsServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
+            <state relative-caret-position="374">
               <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -48,61 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="allBonuses.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/allBonuses.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="30" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="allRaitings.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/allRaitings.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="allRatings.jsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/allRatings.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mainPageA.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/mainPageA.jsp">
+      <file leaf-file-name="modifyDepartment.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/modifyDepartment.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mainPageE.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/mainPageE.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="allRaitings.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/allRaitings.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -140,7 +89,6 @@
         <option value="$PROJECT_DIR$/src/main/java/Controller/DepartmentControl.java" />
         <option value="$PROJECT_DIR$/src/main/java/Servlets/RemoveDepartmentServlet.java" />
         <option value="$PROJECT_DIR$/web/departments.js" />
-        <option value="$PROJECT_DIR$/web/modifyDepartment.js" />
         <option value="$PROJECT_DIR$/web/modifyDepartment.css" />
         <option value="$PROJECT_DIR$/web/modifyDepartment.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/Servlets/LoginServlet.java" />
@@ -166,6 +114,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Servlets/AllRaitingsServlet.java" />
         <option value="$PROJECT_DIR$/web/allRaitings.js" />
         <option value="$PROJECT_DIR$/web/allRatings.jsp" />
+        <option value="$PROJECT_DIR$/web/modifyDepartment.js" />
       </list>
     </option>
   </component>
@@ -237,6 +186,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -252,6 +204,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="advance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="advance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="advance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -311,9 +277,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -321,7 +284,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/I.G/BOG/BOG/advance java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2091954" />
@@ -898,15 +861,16 @@
       <workItem from="1476014540911" duration="11836000" />
       <workItem from="1476095134069" duration="28682000" />
       <workItem from="1476175764745" duration="8967000" />
+      <workItem from="1476208894372" duration="543000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62071000" />
+    <option name="totallyTimeSpent" value="62614000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -922,14 +886,14 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24886535" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24886535" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -964,7 +928,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -972,7 +935,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -980,32 +942,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="731">
           <caret line="43" column="49" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
-          <folding>
-            <element signature="e#1656#1672#0" expanded="true" />
-            <element signature="e#4272#4306#0" expanded="true" />
-            <element signature="e#8810#8826#0" expanded="true" />
-            <element signature="e#10053#10070#0" expanded="true" />
-            <marker date="1476185138433" expanded="true" signature="711:765" ph="select * fro... accounts" />
-            <marker date="1476185138433" expanded="true" signature="1471:1496" ph="select count... departments" />
-            <marker date="1476185138433" expanded="true" signature="2330:2355" ph="select * fro... departments" />
-            <marker date="1476185138433" expanded="true" signature="2803:2860" ph="insert into departments... " />
-            <marker date="1476185138433" expanded="true" signature="3113:3167" ph="update depar... " />
-            <marker date="1476185138433" expanded="true" signature="3597:3631" ph="delete from " />
-            <marker date="1476185138433" expanded="true" signature="4018:4057" ph="select * fro... problems" />
-            <marker date="1476185138433" expanded="true" signature="4018:4070" ph="select * fro... problems" />
-            <marker date="1476185138433" expanded="true" signature="6097:6133" ph="select name projects" />
-            <marker date="1476185138433" expanded="true" signature="6536:6573" ph="select bonus... projects" />
-            <marker date="1476185138433" expanded="true" signature="6997:7053" ph="select bonus... bonuses" />
-            <marker date="1476185138433" expanded="true" signature="6997:7137" ph="select bonus... bonuses" />
-            <marker date="1476185138433" expanded="true" signature="7617:7740" ph="select sum(t... problems" />
-            <marker date="1476185138433" expanded="true" signature="8252:8404" ph="select sum(*... problems" />
-            <marker date="1476185138433" expanded="true" signature="8901:9016" ph="select id fr... employees" />
-            <marker date="1476185138433" expanded="true" signature="9641:9648" ph="select id fr... employees" />
-            <marker date="1476185138433" expanded="true" signature="9641:9678" ph="select name employees" />
-            <marker date="1476185138433" expanded="true" signature="10145:10260" ph="select name employees" />
-            <marker date="1476185138433" expanded="true" signature="10145:10280" ph="select name,... employees" />
-            <marker date="1476185138433" expanded="true" signature="10145:10337" ph="select name,... employees" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1013,9 +949,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="62" selection-start-line="22" selection-start-column="62" selection-end-line="22" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1040,7 +973,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1048,7 +980,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="66" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1056,32 +987,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
-          <folding>
-            <element signature="e#1656#1672#0" expanded="true" />
-            <element signature="e#4272#4306#0" expanded="true" />
-            <element signature="e#8810#8826#0" expanded="true" />
-            <element signature="e#10053#10070#0" expanded="true" />
-            <marker date="1476185138433" expanded="true" signature="711:765" ph="select * fro... accounts" />
-            <marker date="1476185138433" expanded="true" signature="1471:1496" ph="select count... departments" />
-            <marker date="1476185138433" expanded="true" signature="2330:2355" ph="select * fro... departments" />
-            <marker date="1476185138433" expanded="true" signature="2803:2860" ph="insert into departments... " />
-            <marker date="1476185138433" expanded="true" signature="3113:3167" ph="update depar... " />
-            <marker date="1476185138433" expanded="true" signature="3597:3631" ph="delete from " />
-            <marker date="1476185138433" expanded="true" signature="4018:4057" ph="select * fro... problems" />
-            <marker date="1476185138433" expanded="true" signature="4018:4070" ph="select * fro... problems" />
-            <marker date="1476185138433" expanded="true" signature="6097:6133" ph="select name projects" />
-            <marker date="1476185138433" expanded="true" signature="6536:6573" ph="select bonus... projects" />
-            <marker date="1476185138433" expanded="true" signature="6997:7053" ph="select bonus... bonuses" />
-            <marker date="1476185138433" expanded="true" signature="6997:7137" ph="select bonus... bonuses" />
-            <marker date="1476185138433" expanded="true" signature="7617:7740" ph="select sum(t... problems" />
-            <marker date="1476185138433" expanded="true" signature="8252:8404" ph="select sum(*... problems" />
-            <marker date="1476185138433" expanded="true" signature="8901:9016" ph="select id fr... employees" />
-            <marker date="1476185138433" expanded="true" signature="9641:9648" ph="select id fr... employees" />
-            <marker date="1476185138433" expanded="true" signature="9641:9678" ph="select name employees" />
-            <marker date="1476185138433" expanded="true" signature="10145:10260" ph="select name employees" />
-            <marker date="1476185138433" expanded="true" signature="10145:10280" ph="select name,... employees" />
-            <marker date="1476185138433" expanded="true" signature="10145:10337" ph="select name,... employees" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1097,9 +1002,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="22" column="62" selection-start-line="22" selection-start-column="62" selection-end-line="22" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1122,9 +1024,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="22" column="62" selection-start-line="22" selection-start-column="62" selection-end-line="22" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1134,7 +1033,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1142,9 +1040,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
           <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1152,11 +1047,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#446#447#0" expanded="false" />
-            <element signature="e#479#480#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1181,7 +1071,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1197,7 +1086,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="39" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1205,23 +1093,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="25" column="95" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="95" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/modifyDepartment.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/departments.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="42" column="64" selection-start-line="32" selection-start-column="12" selection-end-line="42" selection-end-column="64" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1243,7 +1114,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1280,44 +1150,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/departments.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DBA/Database.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="318">
           <caret line="307" column="14" selection-start-line="307" selection-start-column="14" selection-end-line="307" selection-end-column="14" />
-          <folding>
-            <element signature="e#1656#1672#0" expanded="true" />
-            <element signature="e#4272#4306#0" expanded="true" />
-            <element signature="e#8810#8826#0" expanded="true" />
-            <element signature="e#10053#10070#0" expanded="true" />
-            <marker date="1476185138433" expanded="true" signature="711:765" ph="select * fro... accounts" />
-            <marker date="1476185138433" expanded="true" signature="1471:1496" ph="select count... departments" />
-            <marker date="1476185138433" expanded="true" signature="2330:2355" ph="select * fro... departments" />
-            <marker date="1476185138433" expanded="true" signature="2803:2860" ph="insert into departments... " />
-            <marker date="1476185138433" expanded="true" signature="3113:3167" ph="update depar... " />
-            <marker date="1476185138433" expanded="true" signature="3597:3631" ph="delete from " />
-            <marker date="1476185138433" expanded="true" signature="4018:4057" ph="select * fro... problems" />
-            <marker date="1476185138433" expanded="true" signature="4018:4070" ph="select * fro... problems" />
-            <marker date="1476185138433" expanded="true" signature="6097:6133" ph="select name projects" />
-            <marker date="1476185138433" expanded="true" signature="6536:6573" ph="select bonus... projects" />
-            <marker date="1476185138433" expanded="true" signature="6997:7053" ph="select bonus... bonuses" />
-            <marker date="1476185138433" expanded="true" signature="6997:7137" ph="select bonus... bonuses" />
-            <marker date="1476185138433" expanded="true" signature="7617:7740" ph="select sum(t... problems" />
-            <marker date="1476185138433" expanded="true" signature="8252:8404" ph="select sum(*... problems" />
-            <marker date="1476185138433" expanded="true" signature="8901:9016" ph="select id fr... employees" />
-            <marker date="1476185138433" expanded="true" signature="9641:9648" ph="select id fr... employees" />
-            <marker date="1476185138433" expanded="true" signature="9641:9678" ph="select name employees" />
-            <marker date="1476185138433" expanded="true" signature="10145:10260" ph="select name employees" />
-            <marker date="1476185138433" expanded="true" signature="10145:10280" ph="select name,... employees" />
-            <marker date="1476185138433" expanded="true" signature="10145:10337" ph="select name,... employees" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1325,9 +1161,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1335,7 +1168,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="28" column="59" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1343,7 +1175,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="30" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1357,18 +1188,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Controller/RaitingControl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
+        <state relative-caret-position="425">
           <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#629#646#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/AllRaitingsServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
+        <state relative-caret-position="374">
           <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1378,7 +1208,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/allBonuses.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="306">
           <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="30" selection-end-column="27" />
           <folding />
         </state>
@@ -1412,6 +1242,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/departments.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/departments.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/modifyDepartment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
           <folding />
         </state>
       </provider>

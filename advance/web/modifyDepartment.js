@@ -5,6 +5,10 @@ $(document).ready(function(){
     $("#depDsc").val(sessionStorage.getItem("dsc"));
     $("#submit").click(function () {
         var abr = $("#depAbr").val();
+        if(abr.length > 3){
+            alert("abr max size is 3");
+            return;
+        }
         var name = $("#depName").val();
         var dsc = $("#depDsc").val();
         var id = $("#depId").val();
